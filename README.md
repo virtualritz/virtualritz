@@ -1,5 +1,5 @@
 - 🔭 Currently working on a 3D AfterEffects plug-in 
 - 🌱 Learning Rust
-- 👯 Looking to collaborate on an embedded hardware product in the photography space
+- 👯 Looking for partners in crime to work on an embedded hardware product in the photography space
 - 🤔 Available for consulting
 - 📫 virtualritz@gmail.com
