@@ -3,4 +3,4 @@
 - Rust, C/C++, systems-progamming/graphics-development
 - Looking for partners in crime to work on an embedded hardware product in the photography space
 - Available for consulting
-- virtualritz AT protonmail DOT com
+- virtualritz@protonmail.com
