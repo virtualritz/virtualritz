@@ -2,7 +2,7 @@
 
 - Currently oxidizing the HFT space
 - Making rusty algorithmic art
-- Pet project: working on a AfterEffects plug-in – in ... drumrolls ... Rust
+- Pet project: working on a AfterEffects plug-in – in ... drumroll ... Rust
 - Rust, C/C++, systems-progamming/graphics-development/computational-geometry/performance-critical-shit™
 - Looking for partners in crime to work on an embedded hardware product in the photography space
 - Available for consulting
